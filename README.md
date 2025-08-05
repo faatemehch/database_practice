@@ -11,5 +11,4 @@ This repository is for practicing SQL queries, database design, and collaboratio
 
 4. Create a branch for your work:
    ```bash
-  git checkout -b your-name/feature
-  (e.g., git checkout -b alice/joins-practice)
+   git checkout -b your-name/feature (e.g., git checkout -b alice/joins-practice)
