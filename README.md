@@ -1,6 +1,6 @@
 # SQL Practice Repository
 👨‍💻 Purpose:
-This repository is for practicing SQL queries, database design, and collaboration using GitHub. 
+This repository is for practicing SQL queries, database design. 
 
 📌 How to Contribute
 1. Fork this repository.
